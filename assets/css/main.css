@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+header nav.navbar {
+  width: 100%;
+  height: 250px;
+  background-color: #ffefe7;
+}
+
+main .main-section {
+  width: 100%;
+  height: 250px;
+  background-color: #ffefe7;
+}
+
+footer section {
+  width: 100%;
+  height: 250px;
+  background-color: #fa9500;
+}/*# sourceMappingURL=main.css.map */
